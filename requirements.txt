@@ -1,0 +1,7 @@
+streamlit
+anthropic
+pdfplumber
+docx2txt
+scikit-learn
+numpy
+PyPDF2
