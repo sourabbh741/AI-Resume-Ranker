@@ -1,0 +1,4 @@
+This project uses TF-IDF Vectorization and Cosine Similarity for resume ranking.
+
+No pre-trained model is used.
+The ranking is generated dynamically based on the uploaded resumes and job description.
